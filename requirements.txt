@@ -1,0 +1,8 @@
+# tree_sitter_languages
+tree-sitter-language-pack # change to this package
+openai 
+tqdm 
+numpy 
+pandas
+transformers
+# tree-sitter>=0.21.3 # very important

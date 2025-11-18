@@ -1,0 +1,9 @@
+{
+    "DeepSeek-R1": {
+        "url": "http://localhost:30000/v1",
+        "api_key": "EMPTY",
+        "model_name": "deepseek-r1",
+        "if_inference": true,
+        "temperature": 0.7
+    }
+}
