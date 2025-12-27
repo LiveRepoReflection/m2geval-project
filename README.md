@@ -124,7 +124,9 @@ MODELS_LIST = [ "DeepSeek-R1" ]
 
 #### Evaluation Metrics
 
-**Length-Normalized Edit Similarity** $S \;=\; 1 \;-\; \frac{\mathrm{ED}(\hat{y},\,y^*)}{\max\!\big(|\hat{y}|,\,|y^*|\big)}$ ,higher is better.
+**Length-Normalized Edit Similarity** 
+$S \;=\; 1 \;-\; \frac{\mathrm{ED}(\hat{y},\,y^*)}{\max\!\big(|\hat{y}|,\,|y^*|\big)}$ 
+Higher is better.
 
 #### Task Example
 
