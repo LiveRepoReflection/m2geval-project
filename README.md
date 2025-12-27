@@ -125,7 +125,9 @@ MODELS_LIST = [ "DeepSeek-R1" ]
 #### Evaluation Metrics
 
 **Length-Normalized Edit Similarity** 
+
 $S \;=\; 1 \;-\; \frac{\mathrm{ED}(\hat{y},\,y^*)}{\max\!\big(|\hat{y}|,\,|y^*|\big)}$ 
+
 Higher is better.
 
 #### Task Example
@@ -155,7 +157,7 @@ Our data construction script corresponds to the language and array tuples. After
 
 ## How to Cite
 
-If you use `LiveRepoReflection` in your research, please cite our paper:
+If you use `M²G-Eval` in your research, please cite our paper:
 
 ```bibtex
 
