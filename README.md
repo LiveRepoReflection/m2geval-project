@@ -21,7 +21,7 @@
     <a href="https://huggingface.co/datasets/Tswatery/m2geval-instruction">📚 Instruct Data </a>
 </p>
 <p align="left">
-    <a href="https://huggingface.co/Tswatery/m2geval-coder">🤗 RepoReflectionCoder </a>
+    <a href="https://huggingface.co/Tswatery/m2geval-coder">🤗 M²G-Eval-Coder </a>
 </p>
 
 Welcome to the official repository for **M²G-Eval**. This project, described in detail in our paper "*M²G-Eval: Enhancing and Evaluating Multi-granularity Multilingual Code Generation*", aims to address the problem of incomplete evaluation in Large Language Model (LLM) assessments that focus on a single granularity.
