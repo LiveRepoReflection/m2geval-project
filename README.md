@@ -12,7 +12,7 @@
     <a href="https://livereporeflection.github.io/m2geval.github.io/home.html">🏠 Project Page </a>
 </p>
 <p align="left">
-    <a href="#">📄 Paper(Coming soon) </a>
+    <a href="https://arxiv.org/abs/2512.22628">📄 Paper </a>
 </p>
 <p align="left">
     <a href="https://huggingface.co/datasets/Tswatery/m2geval">📊 Evaluation Data </a>
