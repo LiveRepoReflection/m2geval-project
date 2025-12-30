@@ -172,7 +172,15 @@ Our data construction script corresponds to the language and array tuples. After
 If you use `M²G-Eval` in your research, please cite our paper:
 
 ```bibtex
-
+@misc{xu2025m2gevalenhancingevaluatingmultigranularity,
+      title={M2G-Eval: Enhancing and Evaluating Multi-granularity Multilingual Code Generation}, 
+      author={Fanglin Xu and Wei Zhang and Jian Yang and Guo Chen and Aishan Liu and Zhoujun Li and Xianglong Liu and Bryan Dai},
+      year={2025},
+      eprint={2512.22628},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.22628}, 
+}
 ```
 
 ## License
